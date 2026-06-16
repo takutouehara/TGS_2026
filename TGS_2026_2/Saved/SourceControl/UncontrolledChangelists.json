@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/PG/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/StoreContents/BP_Camera.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/StoreContents/Store_Map.umap",
 				"C:/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundCoinTile.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset",
@@ -15,8 +18,7 @@
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_LeftCornerTile.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_Ramp_DownTile.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_Ramp_UPTile.uasset",
-				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_RightCornerTile.uasset",
-				"C:/PG/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_RightCornerTile.uasset"
 			]
 		}
 	]
