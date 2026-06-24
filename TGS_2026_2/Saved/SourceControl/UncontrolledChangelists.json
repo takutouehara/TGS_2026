@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/ControlRig/Content/StandardFunctionLibrary/StandardFunctionLibrary.uasset",
+<<<<<<< HEAD
 				"C:/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundCoinTile.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset",
@@ -19,6 +20,8 @@
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_RightCornerTile.uasset",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Maps/infiniteRunnerLevel.umap",
 				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+=======
+>>>>>>> 364ea80b8c1e47c8ed709c4958bd578667416d8a
 				"C:/PG/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/StoreContents/BP_Camera.uasset",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/StoreContents/Store_Map.umap",
@@ -43,6 +46,19 @@
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Maps/Store_Map_decoy.umap",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/StoreContents/DT_UI.uasset",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/MainMenu_Level.umap",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GameInstance.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundCoinTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile2.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile3.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTile4.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_GroundTileStart.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_LeftCornerTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_Ramp_DownTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_Ramp_UPTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_RightCornerTile.uasset",
+				"C:/TGS_2026/TGS_2026_2/Content/ThirdPerson/Maps/infiniteRunnerLevel.umap",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Input/Actions/IA_Action_B.uasset"
 			]
 		}
