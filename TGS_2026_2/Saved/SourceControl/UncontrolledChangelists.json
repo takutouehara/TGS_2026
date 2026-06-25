@@ -13,7 +13,11 @@
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/right_icon.uasset",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/WBP_QTE.uasset",
 				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_RightCornerTile.uasset",
-				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_LeftCornerTile.uasset"
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_LeftCornerTile.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/Playable_Character/ChildBP_Cube_Runner.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/Playable_Character/ChildBP_FeMale_Runner.uasset",
+				"C:/PG/TGS_2026/TGS_2026_2/Content/ThirdPerson/Blueprints/Playable_Character/ChildBP_Male_Runner.uasset"
 			]
 		}
 	]
